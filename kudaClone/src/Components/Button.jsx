@@ -81,7 +81,7 @@ const Buttons = styled.div`
         border: transparent;
         background-color: #40196d;
         color: white;
-        font-size: 15px;
+        font-size: 14px;
         font-weight: 700;
         text-align: center;
     }
